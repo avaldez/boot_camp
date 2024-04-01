@@ -1,0 +1,11 @@
+P{
+    color: rgb(68, 0, 255);  
+    width: 500px;
+    border: 1px solid black;
+  }
+
+  #producto
+    {
+      width: 500px;
+      border: 1px solid rgb(21, 241, 113);
+    }
